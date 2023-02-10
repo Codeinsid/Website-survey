@@ -4,7 +4,6 @@ Question and answer project
 
 ## The App
 
-
 Project that answers questions from registered users.. Registration of administrators.. Insertion of questions and answers..
 
 ## Technology 
