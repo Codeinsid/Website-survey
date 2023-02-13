@@ -63,4 +63,4 @@ Here are the technologies used in this project.
   - bundle install
 
 * To run the project.
-  - rails s or rails s -b 0.0.0.0
+  - rails s 
