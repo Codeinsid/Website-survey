@@ -61,6 +61,5 @@ Here are the technologies used in this project.
 * - yarn install
 * To install the gems.
   - bundle install
-
 * To run the project.
   - rails s 
