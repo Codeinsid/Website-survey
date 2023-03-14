@@ -7,7 +7,6 @@ Question and answer project
 Project that answers questions from registered users.. Registration of administrators.. Insertion of questions and answers..
 
 ## Technology 
-
 Here are the technologies used in this project.
 
 * Ruby version  2.6.10
