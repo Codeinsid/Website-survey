@@ -29,7 +29,6 @@ Here are the technologies used in this project.
 *-kaminari-i18n
 *-cocoon
 *-awesome_print
-
 ## Getting started
 
 * Dependency
